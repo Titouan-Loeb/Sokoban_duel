@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "my.h": "c",
+        "sokoban.h": "c",
+        "init_soko.h": "c",
+        "level.h": "c",
+        "my_sflib.h": "c"
+    }
+}
